@@ -7,6 +7,7 @@ Achten Sie dabei wenn möglich auf die Verwendung moderner Programmierparadigmen
 
 IMPORTANT: 
 - **Every week at least one Commit/Push.**
+- Use github actions for testing (in the final version)
 - Use Aspire, Postgres, ...
 - Use the [CQRS pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs). 
 
